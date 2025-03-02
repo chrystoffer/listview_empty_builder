@@ -1,0 +1,26 @@
+name: listview_empty_builder
+description: A Flutter extension that adds an empty state builder to ListView.
+version: 1.0.0
+homepage: https://github.com/chrystoffer/listview_empty_builder
+
+environment:
+  sdk: ^3.7.0
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+topics:
+  - listview
+  - flutter
+  - extension
+  - empty-state
